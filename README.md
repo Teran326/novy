@@ -1,2 +1,1 @@
-# novy
 # Základní příkazy Gitu
